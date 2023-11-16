@@ -1,0 +1,68 @@
+body{
+
+
+}
+
+/*#paragrafos{
+	/*color: red;
+	/*background-color: red;
+	/*background-image: url(../fundos/fundo.jpeg);
+	/*background-repeat: no-repeat;
+	/*background-size: cover;  /*-- DEIXA A IMAGEM DO FUNDO COBRINDO TODO O ELEMENTO*/
+	/*background-attachment: fixed;
+	background:red;
+}
+
+
+
+.subDiv{
+	background-color: yellow;
+}*/
+
+p{
+	
+}
+
+#titulo{
+	color:rgb(100, 200, 50);
+}
+
+.texto_verde{
+	color: green;
+}
+
+#cm{
+	background-color: blue;
+	width:1cm;
+	height:1cm;
+}
+
+#mm{
+	background-color: red;
+	width: 10mm;
+	height: 10mm;
+}
+
+#in{
+	background-color: blue;
+	width: 1in;
+	height: 1in;
+}
+
+#px{
+	background-color: red;
+	width: 10px;
+	height: 10px;
+}
+
+#pt{
+	background-color: blue;
+	width: 10pt;
+	height: 10pt;
+}
+
+#pc{
+	background-color: red;
+	width: 1pc;
+	height: 1pc;
+}
